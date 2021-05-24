@@ -1,1 +1,1 @@
-# Sarysio-savybes-Haskell
+# Sąryšio savybių tikrinimas pasinaudojant sąryšio charakteristine matrica
