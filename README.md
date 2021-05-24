@@ -1,0 +1,1 @@
+# Sarysio-savybes-Haskell
